@@ -3,7 +3,7 @@
 Microcontroller subject project.
 This site is able to communicate with a board that uses MQTT protocol, using Mosquitto.
 
-# Como usar:
+# How to use:
 
 - Clone the project
 - On the project folder: `npm install`
