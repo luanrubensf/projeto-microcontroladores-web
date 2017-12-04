@@ -1,7 +1,7 @@
 # projeto-microcontroladores-web
 
 Microcontroller subject project.
-This site is able to communicate with a board that uses MQTT protocol, using Mosquitto.
+This site is able to communicate with a eletronic board that uses MQTT protocol, using Mosquitto.
 
 # How to use:
 
